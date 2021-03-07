@@ -1,7 +1,9 @@
 {
   "name": "BluetoothDemo",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    }
   },
   "type": "angular"
 }
